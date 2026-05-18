@@ -1,0 +1,5 @@
+Ime: Ivana | Bodovi: 0/10 | Tezina: Lagano
+Ime: Ivanb | Bodovi: 2/10 | Tezina: Srednje
+Ime: Ivanc | Bodovi: 4/10 | Tezina: Tesko
+Ime: Ivantest1            | Bodovi: 8/10 | Tezina: Lagano
+Ime: IvanTest2            | Bodovi: 7/10 | Tezina: Srednje

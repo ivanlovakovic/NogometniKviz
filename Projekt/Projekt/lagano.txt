@@ -1,0 +1,10 @@
+Koliko traje poluvrijeme (minute)?;30;45;60;90;B
+Koji igrac nosi nadimak El Pulga?;Ronaldo;Neymar;Messi;Modric;C
+Koliko igraca jedna ekipa ima na terenu?;10;11;12;7;B
+Koje je boje karton za iskljucenje?;Zuti;Plavi;Crveni;Zeleni;C
+Koji klub igra na stadionu Santiago Bernabeu?;Barcelona;Milan;Real Madrid;Chelsea;C
+Kako se zove kazneni udarac sa 11 metara?;Korner;Faul;Penal;Aut;C
+Tko je osvojio SP 2022. godine?;Hrvatska;Francuska;Brazil;Argentina;D
+Kojim dijelom tijela se ne smije igrati?;Glavom;Nogom;Rukom;Prsima;C
+Tko je kapetan hrvatske reprezentacije?;Perisic;Kovacic;Modric;Gvardiol;C
+Svjetsko prvenstvo se igra svake koliko godina?;2;3;4;5;C
