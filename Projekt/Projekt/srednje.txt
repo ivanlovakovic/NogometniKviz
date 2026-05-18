@@ -1,10 +1,10 @@
-Koji je hrvatski reprezentativac 2018. osvojio Zlatnu loptu kao najbolji igrač svijeta?;Luka Modrić;Mario Mandžukić;Ivan Perišić;Dejan Lovren;A
-Koje je ime prvog hrvatskog nogometaša koji je igrao na Svjetskom prvenstvu istorijski?;Josip Skoblar;Dragan Stojković;Robert Prosinečki;Josip Kuže;B
-Koje je klupsko natjecanje najpoznatije u Europi za nogometne klupove?;Serie A;Bundesliga;UEFA Champions League;Premier League;C
-Koje je ime trenera hrvatske reprezentacije na Svjetskom prvenstvu 2018.?;Zlatko Dalić;Ante Čačić;Slaven Bilić;Branko Ivanković;A
-Koje je ime najvećeg stadiona u Hrvatskoj po kapacitetu?;Stadion Poljud;Stadion Rujevica;Stadion Maksimir;Stadion Kranjčevićeva;C
-Koje je ime hrvatskog kluba koji je 1999. igrao polufinala UEFA Kupa (Europska liga)?;Hajduk Split;Dinamo Zagreb;HAŠK-Građanski;NK Zagreb;A
-Koje je ime najvišega ljestvica u Hrvatskoj reprezentaciji po broju postignutih golova (do 2024.)?;Darijo Srna;Ivan Perišić;Mladen Petrić;Andrej Kramarić;D
-Koje je ime nogometnog pravila po kojemu igrač ne smije dotaknuti loptu rukom osim golmana na svom poklonu?;Lime;Ophodnja;Offside;Držanje rukom (Hand);D
-Koje je ime reprezentacije koja je pobijedila Hrvatsku u finalu Svjetskog prvenstva 2018.?;Argentina;Francuska;Brazil;Portugal;B
-Koje je ime nogometnog natjecanja u kojem igraju ekipa iz jednog kontinenta?;Svjetsko prvenstvo;Kontinentalno prvenstvo;Olimpijske igre;Liga prvaka;B
+Koji je legendarni argentinski nogometas poznat po postizanju pogotka nazvanog "Bozja ruka"?;Lionel Messi;Diego Maradona;Gabriel Batistuta;Mario Kempes;B
+Koji klub drzi rekord s najvise osvojenih naslova Lige prvaka (bivseg Kupa prvaka)?;Barcelona;AC Milan;Liverpool;Real Madrid;D
+Koje je godine Hrvatska nogometna reprezentacija osvojila svoju prvu povijesnu medalju (broncu) na Svjetskom prvenstvu u Francuskoj?;1994.;1996.;1998.;2002.;C
+Koji je poznati portugalski nogometas tijekom karijere nosio broj 7 u Manchester Unitedu, Real Madridu i Juventusu?;Luis Figo;Eusebio;Cristiano Ronaldo;Deco;C
+Koji je nadimak za stadion engleskog kluba Manchester United?;Anfield;Old Trafford;Stamford Bridge;Emirates;B
+Koja je drzava bila domacin Svjetskog nogometnog prvenstva 2022. godine?;Katar;Rusija;Brazil;Juzna Afrika;A
+Koji je francuski napadac osvojio Zlatnu loptu (Ballon d'Or) 2022. godine prije nego sto je presao u Saudijsku Arabiju?;Thierry Henry;Antoine Griezmann;Kylian Mbappe;Karim Benzema;D
+Koji talijanski klub drzi nadimak "Stara dama" (La Vecchia Signora)?;Inter Milan;AC Milan;Juventus;AS Roma;C
+Tko je bio izbornik Hrvatske nogometne reprezentacije kada su osvojili srebro na Svjetskom prvenstvu u Rusiji 2018.?;Miroslav Blazevic;Zlatko Dalic;Niko Kovac;Slaven Bilic;B
+Iz koje drzave dolazi poznati nogometni klub Ajax?;Belgija;Nizozemska;Njemacka;Austrija;B
