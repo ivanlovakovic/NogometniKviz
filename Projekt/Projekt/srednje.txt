@@ -1,10 +1,10 @@
-Tko drzi rekord po broju golova na jednom SP-u?;Pele;Klose;Just Fontaine;Ronaldo;C
-Koji klub je osvojio prvu Ligu prvaka 1956.?;Milan;Benfica;Real Madrid;Ajax;C
-Iz kojeg kluba je Luka Modric presao u Real?;Dinamo;Tottenham;Arsenal;Monaco;B
-Tko je bio strijelac pobjednickog gola na SP 2014?;Muller;Gotze;Kroos;Messi;B
-Koji igrac ima najvise Zlatnih lopti (Ballon d'Or)?;C. Ronaldo;Cruyff;Messi;Ronaldinho;C
-Za koji klub je igrao Zlatan Ibrahimovic u Engleskoj?;Chelsea;Arsenal;Man. United;Liverpool;C
-Tko je bio trener Hrvatske na SP 1998?;Dalic;Otto Baric;Ciro Blazevic;Bilic;C
-Koji grad je domacin kluba Borussia Dortmund?;Berlin;Munchen;Dortmund;Hamburg;C
-Kako se zove stadion na kojem igra Hajduk?;Maksimir;Rujevica;Gradski vrt;Poljud;D
-Tko je osvojio Euro 2004. kao veliko iznenadjenje?;Ceska;Danska;Grcka;Portugal;C
+Koji je hrvatski reprezentativac 2018. osvojio Zlatnu loptu kao najbolji igrač svijeta?;Luka Modrić;Mario Mandžukić;Ivan Perišić;Dejan Lovren;A
+Koje je ime prvog hrvatskog nogometaša koji je igrao na Svjetskom prvenstvu istorijski?;Josip Skoblar;Dragan Stojković;Robert Prosinečki;Josip Kuže;B
+Koje je klupsko natjecanje najpoznatije u Europi za nogometne klupove?;Serie A;Bundesliga;UEFA Champions League;Premier League;C
+Koje je ime trenera hrvatske reprezentacije na Svjetskom prvenstvu 2018.?;Zlatko Dalić;Ante Čačić;Slaven Bilić;Branko Ivanković;A
+Koje je ime najvećeg stadiona u Hrvatskoj po kapacitetu?;Stadion Poljud;Stadion Rujevica;Stadion Maksimir;Stadion Kranjčevićeva;C
+Koje je ime hrvatskog kluba koji je 1999. igrao polufinala UEFA Kupa (Europska liga)?;Hajduk Split;Dinamo Zagreb;HAŠK-Građanski;NK Zagreb;A
+Koje je ime najvišega ljestvica u Hrvatskoj reprezentaciji po broju postignutih golova (do 2024.)?;Darijo Srna;Ivan Perišić;Mladen Petrić;Andrej Kramarić;D
+Koje je ime nogometnog pravila po kojemu igrač ne smije dotaknuti loptu rukom osim golmana na svom poklonu?;Lime;Ophodnja;Offside;Držanje rukom (Hand);D
+Koje je ime reprezentacije koja je pobijedila Hrvatsku u finalu Svjetskog prvenstva 2018.?;Argentina;Francuska;Brazil;Portugal;B
+Koje je ime nogometnog natjecanja u kojem igraju ekipa iz jednog kontinenta?;Svjetsko prvenstvo;Kontinentalno prvenstvo;Olimpijske igre;Liga prvaka;B
