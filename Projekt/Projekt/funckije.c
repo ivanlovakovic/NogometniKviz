@@ -317,14 +317,14 @@ int procitajSortirajIPrikaziRezultate(void) {
     // 24. Pretraživanje po imenu
     char ime[100];
 
-    printf("Unesite ime za pretraživanje (ili prazno za izlaz): ");
+    printf("Unesite ime za pretrazivanje (ili prazno za izlaz): ");
 
     if (fgets(ime, sizeof(ime), stdin) != NULL) {
         ime[strcspn(ime, "\n")] = '\0';
         if (ime[0] != '\0') {
             rezultat* r = pronadiRezultatPoImenu(rezultati, brRez, ime);
             if (r) {
-                printf("Pronađeno: %s | Bodovi: %d | Tezina: %s\n", r->ime, r->bodovi, r->tezina);
+                printf("Pronadeno: %s | Bodovi: %d | Tezina: %s\n", r->ime, r->bodovi, r->tezina);
             }
             else {
                 printf("Nema rezultata za ime: %s\n", ime);
