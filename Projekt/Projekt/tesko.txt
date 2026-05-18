@@ -1,10 +1,10 @@
-Koje godine je osnovan FIFA savez?;1890;1904;1920;1945;B
-Tko je postigao najbrzi gol u povijesti SP-a?;Hakan Sukur;Pele;Eusebio;Zidane;A
-Koji klub je osvojio Kup prvaka 1991. godine?;Marseille;Crvena Zvezda;Bayern;Milan;B
-Koji igrac drzi rekord po broju nastupa za Italiju?;Buffon;Maldini;Cannavaro;Zoff;A
-Tko je jedini vratar koji je osvojio Zlatnu loptu?;Casillas;Neuer;Lev Jasin;Buffon;C
-U kojem talijanskom klubu je karijeru zavrsio Roberto Baggio?;Inter;Milan;Brescia;Juventus;C
-Tko je bio strijelac za Englesku u finalu SP 1966?;Bobby Moore;Geoff Hurst;Bobby Charlton;Banks;B
-Iz koje drzave dolazi klub Sheriff Tiraspol?;Rusija;Rumunjska;Moldavija;Ukrajina;C
-Koji igrac je dobio crveni karton u finalu SP 2006?;Zidane;Materazzi;Henry;Pirlo;a
-Koja drzava je osvojila prvo Svjetsko prvenstvo 1930?;Brazil;Italija;Urugvaj;Argentina;c
+Koje je ime najstarijeg nastupajućeg nogometaša u povijesti Premijer lige (eng. Premier League)?;Steve McMahon;Ryan Giggs;Peter Shilton;Clive Allen;D
+Koje je ime prve hrvatske nogometne reprezentacije koja je nastupila na Svjetskom prvenstvu modernog raspona (1998.)?;Jugoslavija;Hrvatska;Francuska;Nizozemska;B
+Koje je ime kluba kojeg je Luka Modrić igrao prije Real Madrida osim Dinama?;Arsenal;Tottenham Hotspur;Manchester United;Liverpool;B
+Koje je ime hrvatskog igrača koji je bio ključan u osvajanju srebra na Svjetskom prvenstvu 2018. i igrao na desnom krilu?;Luka Modrić;Ivan Rakitić;Marcelo Brozović;Ivan Perišić;D
+Koje je ime reprezentacije koja je 2014. osvojila Svjetsko prvenstvo?;Argentina;Britanska ekipa;Njemačka;Francuska;C
+Koje je ime trenera koji je vodio Real Madrid kada ga je Luka Modrić prešao iz Tottenhama?;Carlo Ancelotti;José Mourinho;Zinedine Zidane;Pep Guardiola;A
+Koje je ime natjecanja u kojem Hrvatska igra potpuno turnir s 4 momčadi iz jednog kontinenta?;Svjetsko prvenstvo;UEFA Euros (EURO);Kontinentalno prvenstvo;Olimpijske igre;B
+Koje je ime hrvatskog igrača koji je bio kapiten Hrvatske reprezentacije na Svjetskom prvenstvu 2014.?;Darijo Srna;Luka Modrić;Ivan Perišić;Mario Mandžukić;A
+Koje je ime hrvatskog kluba koji je najviše puta osvajao hrvatsku nogometnu ligu (Premijer liga)?;Hajduk Split;Dinamo Zagreb;Rijeka;Osijek;B
+Koje je ime nogometnog pravila koje kaže da je igrač u položaju koji je neodobren kada je "najblizi" protivničkoj zadnjoj liniji?;Offside;Hand;Foul;Penali;A
