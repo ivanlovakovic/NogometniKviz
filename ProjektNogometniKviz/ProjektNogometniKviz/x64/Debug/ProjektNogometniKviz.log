@@ -1,5 +1,0 @@
-﻿  main.c
-  funckije.c
-C:\Users\zlolo\Desktop\ProjektNogometniKviz\ProjektNogometniKviz\main.c(170,30): warning C4013: 'strcspn' undefined; assuming extern returning int
-  Generating Code...
-  ProjektNogometniKviz.vcxproj -> C:\Users\zlolo\Desktop\ProjektNogometniKviz\x64\Debug\ProjektNogometniKviz.exe
