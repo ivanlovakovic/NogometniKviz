@@ -1,0 +1,6 @@
+﻿  main.c
+  funckije.c
+C:\Users\zlolo\Documents\NogometniKviz-main\ProjektNogometniKviz\ProjektNogometniKviz\main.c(170,30): warning C4013: 'strcspn' undefined; assuming extern returning int
+  Generating Code...
+  LINK : C:\Users\zlolo\Documents\NogometniKviz-main\ProjektNogometniKviz\x64\Debug\ProjektNogometniKviz.exe not found or not built by the last incremental link; performing full link
+  ProjektNogometniKviz.vcxproj -> C:\Users\zlolo\Documents\NogometniKviz-main\ProjektNogometniKviz\x64\Debug\ProjektNogometniKviz.exe
