@@ -1,0 +1,10 @@
+Koliko igraca iz jedne momcadi smije biti na terenu na pocetku nogometne utakmice?;9;10;11;12;C
+Koja drzava je osvojila najvise naslova svjetskog prvaka u nogometu?;Njemacka;Brazil;Italija;Argentina;B
+Koliko minuta traje standardna nogometna utakmica bez produzetaka?;80 minuta;90 minuta;100 minuta;60 minuta;B
+Koji dio tijela, osim vratara, nogometasi ne smiju namjerno koristiti tijekom igre?;Glavu;Prsa;Ruku;Nogu;C
+Kako se zove karton koji sudac pokazuje igracu za tezi prekrsaj ili kada ga potpuno iskljucuje iz igre?;Zeleni karton;Zuti karton;Plavi karton;Crveni karton;D
+Koje se natjecanje smatra najprestiznijim klupskim turnirom u Europi?;Liga prvaka;Europska liga;Konferencijska liga;Kup kralja;A
+Koliko zutih kartona igrac mora dobiti na jednoj utakmici da bi automatski dobio crveni karton?;Jedan;Dva;Tri;Cetiri;B
+Iz kojeg se grada na terenu izvodi kazneni udarac u nogometu, poznatiji kao penal?;S linije gola;S ruba sesnaesterca;S bijele tocke udaljene 11 metara;S centra igralista;C
+Koji je nadimak za nogometnu reprezentaciju Hrvatske?;Zmajevi;Orlovi;Vatreni;Sokoli;C
+Koliko poluvremena ima jedna standardna nogometna utakmica?;Jedno;Dva;Tri;Cetiri;B

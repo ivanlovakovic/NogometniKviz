@@ -1,0 +1,5 @@
+Ime: testt                | Bodovi: 1/10 | Tezina: Srednje
+Ime: el pulga             | Bodovi: 8/10 | Tezina: Srednje
+Ime: tesko                | Bodovi: 2/10 | Tezina: Tesko
+Ime: najjaci              | Bodovi: 10/10 | Tezina: Lagano
+Ime: sadsa                | Bodovi: 1/10 | Tezina: Lagano
